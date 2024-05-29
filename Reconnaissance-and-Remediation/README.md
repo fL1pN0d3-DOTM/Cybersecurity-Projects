@@ -42,3 +42,5 @@ In this project, I will demonstrate the comprehensive process of vulnerability m
 #### Conclusion:
 
 This project will provide a thorough demonstration of the vulnerability management lifecycle, from initial identification to final remediation. By using Nmap and Nessus on a Kali Linux Virtual Machine to scan a Windows 10 host machine, and employing Action1 for remediation within the host, I will effectively show how to secure a system against potential threats. The final rescan will confirm the success of the remediation process, ensuring that the host machine is better protected against attacks.
+
+*Side note: the template I used to present the project is from boilerplate I created for The Odin Project. It was written primarily in VS Code, with the help of GPT-4o to fine-tune the CSS & HTML.*
